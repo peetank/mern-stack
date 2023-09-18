@@ -15,14 +15,15 @@ The tech stack is a combination of programming languages, frameworks, and tools 
   - Better learning curve
   - Better for enterprises and larger projects
 
-#### MERN: MongoDB, ExpressJs, ReactJs, NodeJs
+### MERN: MongoDB, ExpressJs, ReactJs, NodeJs
   - React is a JavaScript library.
   - Uses JS and JSX(Javascript Extended Syntax)
   - Here uni-directional (Changes go through Models first)
   - Excellent Documentation
   - Quicker and for smaller projects in general
+  - Backend of MERN is REST API/ RESTful API which is an interfact that two computer systems use to exchange information securely over the internet.
+  - Backend will receive requests from the frontend. Classified into CRUD(Create = Post, Read = Get, Update = Patch/Put, Delete = Delete)
 <hr>
-
 ### React
   - JS library for building fast and interactive user interfaces for the web as well as mobile applications
   - Open Source, Reusable component based front-end library
