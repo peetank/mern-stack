@@ -1,5 +1,5 @@
-# mern-stack-simplilearn
-Learning journey of MERN stack course by Simplilearn on YT.
+# mern-stack
+Learning journey of MERN stack courses on YT.
 
 ### What is a tech stack?
 The tech stack is a combination of programming languages, frameworks, and tools that developers use to build a web or mobile app.
