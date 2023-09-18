@@ -23,7 +23,9 @@ The tech stack is a combination of programming languages, frameworks, and tools 
   - Quicker and for smaller projects in general
   - Backend of MERN is REST API/ RESTful API which is an interfact that two computer systems use to exchange information securely over the internet.
   - Backend will receive requests from the frontend. Classified into CRUD(Create = Post, Read = Get, Update = Patch/Put, Delete = Delete)
+
 <hr>
+
 ### React
   - JS library for building fast and interactive user interfaces for the web as well as mobile applications
   - Open Source, Reusable component based front-end library
