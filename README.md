@@ -1,5 +1,9 @@
 # mern-stack
 Learning journey of MERN stack courses on YT.
+ ```
+  NOTE: I have already made a nodejs-scaler repo for MongoDB, Express & Node.js.
+  This repo is only for React.js now.
+```
 
 ### What is a tech stack?
 The tech stack is a combination of programming languages, frameworks, and tools that developers use to build a web or mobile app.
@@ -58,3 +62,24 @@ The tech stack is a combination of programming languages, frameworks, and tools 
       - Extended with Flux and Redux
   - Debugging
       - Easy to debug because of huge community
+
+  #### React Tutorial for Beginners (By - [`Programming with Mosh`]("https://www.youtube.com/watch?v=SqcY0GlETPk&t=426s"))
+  - Components are used for modular, organized and reusable code.
+  - ##### Creating a React app
+    - CRA (Create React App) - Official tool by the React team.
+    - Vite (by Vue.js) - Faster than CRA.
+    - `$ npm create vite@latest` To install latest.
+    - `$ npm create vite@4.1.0` Used by the instructor.
+    - Choose what you want. Then `$ cd <project_directory>` then `$ npm install`
+    - Run the project with `$ npm run dev`.
+
+  - ##### Creating a React Component
+    - Typescript files have either .ts or .tsx file extension.
+    - `.ts` for plain Typescript and `.tsx` for React components.
+  - ##### Library vs Framework
+    - Library(React) is a tool that provides specific functionality.
+    - Framework(Angular.js, Vue.js) is a set of tools and guidelines for building apps.
+  - ##### React Components
+    - By convention they are grouped in `components`.
+    - In React we cannot return multiple elements from a component.
+    - If we don't want to wrap elements in a single div we can use `Fragments`.
