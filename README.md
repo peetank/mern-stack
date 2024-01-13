@@ -1,4 +1,3 @@
-# mern-stack
 Learning journey of MERN stack courses on YT.
  ```
   NOTE: I have already made a nodejs-scaler repo for MongoDB, Express & Node.js.
